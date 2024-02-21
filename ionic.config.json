@@ -1,0 +1,7 @@
+{
+  "name": "djko",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
